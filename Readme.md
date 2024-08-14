@@ -22,6 +22,4 @@ Tecnologias Utilizadas
   </a>
   <img src="https://seeklogo.com/images/G/google-sheets-logo-D2A35FF8A4-seeklogo.com.png" alt="Google Sheets Logo" height="48" width="34" />
 </div>
-Chegamos ao fim da apresentação do meu projeto. Agradeço pela dedicação em acompanhar e estou à disposição para quaisquer dúvidas ou oportunidades de colaboração no futuro.
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpnbWpoaWlmazRkMWxmeXp0aTN5dTJkaDdqMHZycGlibmN3bDF2OSZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/WIWsTIhLULMQCmkO0G/giphy.gif" alt="GIF" width="300" height="170" />
